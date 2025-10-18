@@ -9,6 +9,9 @@ This project demonstrates the fundamentals of smart contracts — including **st
 
 ---
 
+## contract adddress
+0x545c5BAfe42D6f14977fac12049CD386D1391A97
+
 ## 🚀 **Overview**
 
 The **Counter Contract** allows users to:
@@ -118,4 +121,5 @@ contract Counter {
 ---
 
 Would you like me to make this README auto-fill-ready with placeholders for the **contract address, transaction hash, and screenshot link**, so participants can just fill them in before submission?
+<img width="1908" height="658" alt="image" src="https://github.com/user-attachments/assets/86f3dd3d-c442-4bdc-8908-3b8a8adcce42" />
 
